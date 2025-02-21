@@ -1,19 +1,29 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "on giving good advice"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-02-20"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: "Aisha Han"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Good advice is contextualized. It accounts and expands for differences.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Parenting advice is often bad because kids are magnificently unique creatures and so are their caregivers. Gardening advice is worthless without piles of information on where someone is gardening, their soil type, their level of expertise, their access to various gardening tools, and the amount of time they have to deal with the problem.
 
-## Lorem Ipsum
+We need context to effectively tell others something they didn't already know, mostly because information asymmetry is at play here. The person seeking advice lacks critical knowledge, but the advisor, unless deeply familiar with the person's specific circumstances, lacks the details necessary to bridge that gap effectively.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+This isn't always the case (ironically). I have read *many* self-help books, and early on in my self-development journey they were incredibly useful tools. But as I got more sophisticated in 1) knowing myself and 2) the framework around self-development concepts like respect and discipline, the marginal return from finishing more of these books decreased dramatically. Broadly applied tips and recommendations were falling short on my journey. 
+
+Price discrimination, advertising, financial planning, medical consultations, negotiations strategy, and tutoring--these are solutions or services where it's clear that the broader the audience is, the less tailored an expert's advice will be, thus the less useful the advice. Many companies' value prop is their customizable features, but oftentimes they throw it all at once at the client's face, or outsource a tailored approach by leveraging algorithms trained on a user's behaviors and patterns. The output is hopefully a solution that would delight the user (though this many times is not the case, i.e. Spotify).  
+
+Good advice isn't only about expertise. It's about relationships. The tether you create with another person becomes an investment in shared understanding. Good therapists don't diagnose in the first session. The best consultants ask clarifying questions until they get the entire picture of a client's business problem. The wisest mentors listen before they speak. Importantly, these partners respect the data their users volunteer to disclose. Current platforms that outsource customized approaches run into that problem all the time. Therefore, good advice runs on trust. 
+
+Know the person well enough to make your advice matter. Respect the exchange of knowledge. 
+
+With first-degree discrimination, the company charges the maximum possible price for each unit consumed. Second-degree discrimination involves discounts for products or services bought in bulk, while third-degree discrimination reflects different prices for different groups of consumers.
+
+Good advice, much like first-degree price discrimination, recognizes that everyone has different thresholds of "willingness to pay"—not in a monetary sense, but in terms of effort, priorities, and personal circumstances. In price discrimination, firms segment consumers into groups and charge different prices based on their perceived value of a product. Similarly, effective guidance isn’t one-size-fits-all; it adapts to each individual’s background, strengths, and constraints. It's all about getting closer to optimizing value for both parties. 
+
+In the same way, good advice doesn’t impose a singular formula for success but instead meets students where they are, helping them maximize their potential within their unique context. The goal isn’t just to provide generic strategies—it’s to recognize the nuances of each student’s journey and offer guidance that is both actionable and deeply relevant to them.
