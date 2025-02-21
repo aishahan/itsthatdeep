@@ -2,7 +2,7 @@
 title: "on giving good advice"
 excerpt: "Good advice is contextualized. It accounts and expands for differences. Parenting advice is often bad because kids are magnificently unique creatures and so are their caregivers. Gardening advice is worthless without piles of information on where someone is gardening, their soil type, their level of expertise, their access to various gardening tools, and the amount of time they have to deal with the problem."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2025-02-20"
+date: 2025-02-20
 author:
   name: "Aisha Han"
 ogImage:
