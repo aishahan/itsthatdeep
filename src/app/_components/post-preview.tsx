@@ -16,15 +16,15 @@ export function PostPreview({
 }: Props) {
   return (
     <div className="border-4 p-4 border-accent-2">
-      <h3 className="text-3xl text-accent-1 mb-3 leading-snug">
+      <h3 className="text-lg text-accent-1 mb-3 leading-snug">
         <Link href={`/posts/${slug}`} className="hover:underline">
           {title}
         </Link>
       </h3>
-      <div className="text-lg mb-4">
+      <div className="text-base mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-base leading-relaxed mb-4">{excerpt}</p>
     </div>
   );
 }
