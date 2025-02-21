@@ -1,12 +1,15 @@
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inria_Serif } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const inriaSerif = Inria_Serif({ 
+  subsets: ["latin"],
+  weight: ['300', '400', '700'],
+});
 
 export const metadata: Metadata = {
   title: `Next.js Blog Example with ${CMS_NAME}`,
@@ -57,10 +60,10 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        className={cn(inriaSerif.className, "bg-background")}
       >
         <ThemeSwitcher />
-        <div className="min-h-screen bg-background text-accent-2">{children}</div>
+        <div className="min-h-screen text-accent-2">{children}</div>
         
       </body>
     </html>
