@@ -16,7 +16,7 @@ export default async function WritingPage() {
   return (
     <Container>
       <Intro highlightedLinks={true} />
-      <div className="max-w-7xl mx-auto px-5">
+      <div>
         {/* Topics Section */}
         <div className="mb-12">
           <div className="flex flex-wrap justify-center gap-2 text-base md:text-base">
