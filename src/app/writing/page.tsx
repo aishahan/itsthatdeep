@@ -16,7 +16,7 @@ export default async function WritingPage() {
   return (
     <Container>
       <Intro highlightedLinks={true} />
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-7xl mx-auto px-5">
         {/* Topics Section */}
         <div className="mb-12">
           <div className="flex flex-wrap justify-center gap-2 text-base md:text-base">
@@ -34,7 +34,7 @@ export default async function WritingPage() {
         </div>
 
         {/* Articles Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-32">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-32">
           {allPosts.map((post) => (
             <PostPreview
               key={post.slug}
