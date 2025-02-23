@@ -1,7 +1,8 @@
 ---
 title: desire is a duty
 excerpt: This message may resonate with you if you are a perfectionist and/or overachievers who are often paralyzed by your own expectations. The pressure to meet impossibly high standards can lead to a cycle of procrastination, where the fear of falling short outweighs the desire to begin. You might feel immense shame for your inaction and label yourself as lazy or unmotivated. This harsh self-criticism only deepens your sense of inadequacy, making it harder to break free from the cycle...
-date: 2025-02-19
+date: "2025-02-19"
+tags: ["career", "planning", "goals"]
 ---
 This message may resonate with you if you are a perfectionist and/or overachievers who are often paralyzed by your own expectations. The pressure to meet impossibly high standards can lead to a cycle of procrastination, where the fear of falling short outweighs the desire to begin. You might feel immense shame for your inaction and label yourself as lazy or unmotivated. This harsh self-criticism only deepens your sense of inadequacy, making it harder to break free from the cycle. Over time, you might find yourself trapped in a constant state of self-doubt, exhausted by the burden of your own expectations, but unable to give yourself the grace to move forward imperfectly.
 

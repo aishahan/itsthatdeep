@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/customer-journey-map-your-life-goals.md",
+                "file": "_posts/desire-is-a-duty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "customer-journey-map-your-life-goals"
+              "title": "desire-is-a-duty"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "11a40c1f970dc845",
   "lastOpenFiles": [
+    "_posts/customer-journey-map-your-life-goals.md",
     "_posts/example-post.md",
     "src/app/writing/topic/[topic]/page.tsx",
     "src/app/writing/topic/[topic]",
@@ -178,7 +179,6 @@
     "src/app/writing/page.tsx",
     "src/app/writing",
     "_posts/hello-world.md",
-    "_posts/customer-journey-map-your-life-goals.md",
     "_posts/preview.md",
     "_posts/on-giving-good-advice.md",
     "_posts/desire-is-a-duty.md",
