@@ -19,7 +19,7 @@ export default async function WritingPage() {
       <div className="max-w-6xl mx-auto">
         {/* Topics Section */}
         <div className="mb-12">
-          <div className="flex flex-wrap gap-2 text-sm">
+          <div className="flex flex-wrap justify-center gap-2 text-base md:text-base">
             {topics.map((topic, index) => (
               <a
                 key={topic}
@@ -39,11 +39,9 @@ export default async function WritingPage() {
             <PostPreview
               key={post.slug}
               title={post.title}
-              coverImage={post.coverImage}
               date={post.date}
-              author={post.author}
-              slug={post.slug}
               excerpt={post.excerpt}
+              slug={post.slug}
             />
           ))}
         </div>

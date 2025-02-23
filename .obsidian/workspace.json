@@ -170,6 +170,10 @@
   },
   "active": "11a40c1f970dc845",
   "lastOpenFiles": [
+    "_posts/example-post.md",
+    "src/app/writing/topic/[topic]/page.tsx",
+    "src/app/writing/topic/[topic]",
+    "src/app/writing/topic",
     "src/app/_components/topics-list.tsx",
     "src/app/writing/page.tsx",
     "src/app/writing",
