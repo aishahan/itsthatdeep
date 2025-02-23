@@ -2,18 +2,17 @@ import { CMS_NAME } from "@/lib/constants";
 
 type IntroProps = {
   highlightedLinks?: boolean;
-  currentPage?: 'writing' | 'coach';
+  currentPage?: 'writing' | 'coach' | 'contact' | 'video';
 };
 
 export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
   // Helper function to determine hover color
   const getHoverColor = (linkType: 'writing' | 'coach' | 'other') => {
-    if (currentPage === 'writing') {
+    // If we're on any page, all links should hover to accent-1
+    if (currentPage) {
       return 'hover:text-accent-1';
     }
-    if (currentPage === 'coach') {
-      return linkType === 'writing' ? 'hover:text-accent-1' : 'hover:text-accent-2';
-    }
+    // On home page, all links hover to accent-2
     return 'hover:text-accent-2';
   };
 
