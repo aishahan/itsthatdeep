@@ -1,6 +1,10 @@
 import { CMS_NAME } from "@/lib/constants";
 
-export function Intro() {
+type IntroProps = {
+  highlightedLinks?: boolean;
+};
+
+export function Intro({ highlightedLinks = false }: IntroProps) {
   return (
     <section className="my-12">
       <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-4">
@@ -11,13 +15,28 @@ export function Intro() {
           <a href="/writing" className="text-4xl md:text-xl text-accent-1 font-normal tracking-tighter hover:text-accent-2 transition-colors">
             writing
           </a>
-          <a href="/coach" className="text-4xl md:text-xl text-accent-1 font-normal tracking-tighter hover:text-accent-2 transition-colors">
+          <a 
+            href="/coach" 
+            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
+              highlightedLinks ? 'text-[#FF8C8C] hover:text-accent-2' : 'text-accent-1 hover:text-accent-2'
+            }`}
+          >
             coach
           </a>
-          <a href="/contact" className="text-4xl md:text-xl text-accent-1 font-normal tracking-tighter hover:text-accent-2 transition-colors">
+          <a 
+            href="/contact" 
+            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
+              highlightedLinks ? 'text-[#FF8C8C] hover:text-accent-2' : 'text-accent-1 hover:text-accent-2'
+            }`}
+          >
             contact
           </a>
-          <a href="/video" className="text-4xl md:text-xl text-accent-1 font-normal tracking-tighter hover:text-accent-2 transition-colors">
+          <a 
+            href="/video" 
+            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
+              highlightedLinks ? 'text-[#FF8C8C] hover:text-accent-2' : 'text-accent-1 hover:text-accent-2'
+            }`}
+          >
             video
           </a>
         </nav>

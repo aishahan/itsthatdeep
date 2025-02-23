@@ -1,6 +1,7 @@
 import Container from "@/app/_components/container";
 import { getAllPosts } from "@/lib/api";
 import { PostPreview } from "@/app/_components/post-preview";
+import { Intro } from "@/app/_components/intro";
 
 export default async function WritingPage() {
   const allPosts = await getAllPosts();
@@ -14,6 +15,7 @@ export default async function WritingPage() {
 
   return (
     <Container>
+      <Intro highlightedLinks={true} />
       <div className="max-w-6xl mx-auto">
         {/* Topics Section */}
         <div className="mb-12">
