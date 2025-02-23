@@ -17,14 +17,16 @@ export default async function HomePage() {
       link: "mailto:info@itsthatdeep.com"
     },
     cell4: {
-      title: "YouTube",
+      title: "Projects",
       content: "Twitter",
       link: "https://x.com/its_that_deep"
     },
     cell6: {
       title: "Study with me",
       content: "Cambridge Coaching | Aisha",
-      link: "https://cambridgecoaching.com/tutors/aisha-h"
+      link: "https://cambridgecoaching.com/tutors/aisha-h",
+      content2: "Empowerly | Aisha",
+      link2: "https://empowerly.com/aisha-h"
     }
   };
 
@@ -50,16 +52,20 @@ export default async function HomePage() {
           <div key="fixed-2" className="p-4">
             <Link href={fixedCells.cell4.link} className="block">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell4.title}</h3>
-              <p className="text-base text-accent-2">{fixedCells.cell4.content}</p>
+              <p className="text-2xl text-accent-1">{fixedCells.cell4.content}</p>
             </Link>
           </div>
         );
       } else if (i === 5) { // Cell 6
         gridItems.push(
-          <div key="fixed-3" className="p-4">
+          <div key="fixed-3" className="p-4 flex flex-col justify-center h-full">
             <Link href={fixedCells.cell6.link} className="block">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell6.title}</h3>
-              <p className="text-base text-accent-2">{fixedCells.cell6.content}</p>
+              <p className="text-2xl text-accent-2">{fixedCells.cell6.content}</p>
+            </Link>
+            <Link href={fixedCells.cell6.link2} className="block">
+              <p className="text-2xl text-accent-2">{fixedCells.cell6.content2}</p>
+            
             </Link>
           </div>
         );
