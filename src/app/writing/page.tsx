@@ -18,7 +18,7 @@ export default async function WritingPage() {
       <Intro highlightedLinks={true} currentPage="writing" />
       <div>
         {/* Topics Section */}
-        <div className="mb-12">
+        <div className="mb-12 mt-16">
           <div className="flex flex-wrap justify-center gap-2 text-base md:text-base">
             {topics.map((topic, index) => (
               <a
