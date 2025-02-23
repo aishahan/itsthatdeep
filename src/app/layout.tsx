@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Inria_Serif } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
+import { SeasonScript } from './_components/season-script';
 
 import "./globals.css";
 
@@ -58,12 +59,13 @@ export default function RootLayout({
         />
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+        <SeasonScript />
       </head>
       <body
-        className={cn(inriaSerif.className, "bg-background")}
+        className={cn(inriaSerif.className, "bg-[var(--color-background)]")}
       >
         <ThemeSwitcher />
-        <div className="min-h-screen text-accent-2">{children}</div>
+        <div className="min-h-screen text-[var(--color-accent-2)]">{children}</div>
         
       </body>
     </html>

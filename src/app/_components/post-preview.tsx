@@ -17,18 +17,24 @@ export function PostPreview({
   return (
     <Link
       href={`/posts/${slug}`}
-      className="block border-4 p-4 border-accent-2 hover:bg-accent-2/5 transition-colors cursor-pointer"
+      className="block border-4 border-[var(--color-accent-2)] p-4 
+        transition-all duration-300 ease-in-out
+        hover:border-[var(--color-accent-1)]
+        hover:from-[var(--color-accent-2)]/5
+        hover:to-transparent
+        hover:bg-gradient-radial
+        relative group"
     >
       <div>
-        <h3 className="text-3xl mb-3 leading-snug">
-          <span className="text-accent-1 hover:text-accent-2 transition-colors">
+        <h3 className="text-2xl mb-3 leading-snug">
+          <span className="text-[var(--color-accent-1)] transition-colors">
             {title}
           </span>
         </h3>
         <div className="text-lg mb-4">
           <DateFormatter dateString={date} />
         </div>
-        <p className="text-base leading-relaxed mb-4 text-accent-2">{excerpt}</p>
+        <p className="text-lg leading-relaxed mb-4 text-[var(--color-accent-2)]">{excerpt}</p>
       </div>
     </Link>
   );

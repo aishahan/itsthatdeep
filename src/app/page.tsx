@@ -14,7 +14,9 @@ export default async function HomePage() {
       content: "info@itsthatdeep.com",
       content2: "YouTube",
       content3: "Twitter",
-      link: "mailto:info@itsthatdeep.com"
+      link: "mailto:info@itsthatdeep.com",
+      link2: "https://www.youtube.com/@TheSubtleFold",
+      link3: "https://x.com/its_that_deep"
     },
     cell4: {
       title: "Projects",
@@ -39,18 +41,23 @@ export default async function HomePage() {
       if (i === 1) { // Cell 2
         gridItems.push(
           <div key="fixed-1" className="p-4 text-center flex flex-col justify-center h-full">
-            <Link href={fixedCells.cell2.link} className="block">
+            <Link href={fixedCells.cell2.link} className="block" target="_blank" rel="noopener noreferrer">
               <h3 className="text-2xl leading-snug text-accent-1">{fixedCells.cell2.title}</h3>
               <p className="text-2xl text-accent-1">{fixedCells.cell2.content}</p>
+            </Link>
+            <Link href={fixedCells.cell2.link2} className="block" target="_blank" rel="noopener noreferrer">
               <p className="text-2xl text-accent-1">{fixedCells.cell2.content2}</p>
+            </Link>
+            <Link href={fixedCells.cell2.link3} className="block" target="_blank" rel="noopener noreferrer">
               <p className="text-2xl text-accent-1">{fixedCells.cell2.content3}</p>
             </Link>
+
           </div>
         );
       } else if (i === 3) { // Cell 4
         gridItems.push(
           <div key="fixed-2" className="p-4">
-            <Link href={fixedCells.cell4.link} className="block">
+            <Link href={fixedCells.cell4.link} className="block" target="_blank" rel="noopener noreferrer">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell4.title}</h3>
               <p className="text-2xl text-accent-1">{fixedCells.cell4.content}</p>
             </Link>
@@ -59,13 +66,12 @@ export default async function HomePage() {
       } else if (i === 5) { // Cell 6
         gridItems.push(
           <div key="fixed-3" className="p-4 flex flex-col justify-center h-full">
-            <Link href={fixedCells.cell6.link} className="block">
+            <Link href={fixedCells.cell6.link} className="block" target="_blank" rel="noopener noreferrer">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell6.title}</h3>
               <p className="text-2xl text-accent-2">{fixedCells.cell6.content}</p>
             </Link>
-            <Link href={fixedCells.cell6.link2} className="block">
+            <Link href={fixedCells.cell6.link2} className="block" target="_blank" rel="noopener noreferrer">
               <p className="text-2xl text-accent-2">{fixedCells.cell6.content2}</p>
-            
             </Link>
           </div>
         );

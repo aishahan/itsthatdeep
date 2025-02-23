@@ -26,11 +26,11 @@ export default async function CoachPage() {
           <div className="md:pl-12">
             <section className="mb-8">
               <details className="group" open>
-                <summary className="text-2xl text-accent-1 font-bold tracking-tighter cursor-pointer list-none flex items-center gap-2 mt-16">
+                <summary className="text-2xl text-[var(--color-accent-1)] font-bold tracking-tighter cursor-pointer list-none flex items-center gap-2 mt-16">
                   Background
-                  <span className="text-accent-2 transition-transform group-open:rotate-180"></span>
+                  <span className="text-[var(--color-accent-2)] transition-transform group-open:rotate-180"></span>
                 </summary>
-                <div className="mt-4 text-accent-2 space-y-4">
+                <div className="mt-4 text-[var(--color-accent-2)] space-y-4">
                   <p>
                     I grew up in a low-middle income neighborhood with immigrant parents. Education was the way up and out for not only my parents' upbringing, but also my own.
                   </p>
@@ -51,10 +51,10 @@ export default async function CoachPage() {
           {/* Right column */}
           <div className="md:pr-12">
             <section className="mb-8">
-              <h2 className="text-xl text-accent-1 font-bold mb-4 mt-16 text-right">
+              <h2 className="text-xl text-[var(--color-accent-1)] font-bold mb-4 mt-16 text-right">
                 Past high school students have been accepted to:
               </h2>
-              <ul className="text-accent-2 space-y-2 text-right">
+              <ul className="text-[var(--color-accent-2)] space-y-2 text-right">
                 <li>Amherst College</li>
                 <li>Brown University</li>
                 <li>San Diego State University</li>
@@ -65,10 +65,10 @@ export default async function CoachPage() {
             </section>
 
             <section className="mb-12">
-              <h2 className="text-xl text-accent-1 font-bold text-right">
+              <h2 className="text-xl text-[var(--color-accent-1)] font-bold text-right">
                 Past early career clients have been offered roles at:
               </h2>
-              <ul className="text-accent-2 space-y-2 text-right">
+              <ul className="text-[var(--color-accent-2)] space-y-2 text-right">
                 <li>Adobe</li>
                 <li>Google</li>
                 <li>Groq</li>
@@ -85,7 +85,7 @@ export default async function CoachPage() {
             href="https://empowerly.as.me/aishahan" 
             target="_blank"
             rel="noopener noreferrer"
-            className="block w-full text-center py-3 text-accent-1 border-2 border-accent-1 hover:bg-accent-1 hover:text-white transition-colors"
+            className="block w-full text-center py-3 text-[var(--color-accent-1)] border-2 border-[var(--color-accent-1)] hover:bg-[var(--color-accent-1)] hover:text-[var(--color-background)] transition-colors"
           >
             Book a college admissions session with me ↓
           </a>
@@ -93,7 +93,7 @@ export default async function CoachPage() {
             href="https://cambridgecoaching.com/tutors/aisha-h?profession=29&tier=1" 
             target="_blank"
             rel="noopener noreferrer"
-            className="block w-full text-center py-3 text-accent-1 border-2 border-accent-1 hover:bg-accent-1 hover:text-white transition-colors"
+            className="block w-full text-center py-3 text-[var(--color-accent-1)] border-2 border-[var(--color-accent-1)] hover:bg-[var(--color-accent-1)] hover:text-[var(--color-background)] transition-colors"
           >
             Book a career session with me ↓
           </a>
@@ -101,7 +101,7 @@ export default async function CoachPage() {
 
         {/* Related Articles Section */}
         <section className="md:px-12">
-          <h2 className="text-2xl text-accent-1 font-bold m-8 text-center">
+          <h2 className="text-2xl text-[var(--color-accent-1)] font-bold m-8 text-center">
             related articles about college and career
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-32">
@@ -116,7 +116,7 @@ export default async function CoachPage() {
                 />
               ))
             ) : (
-              <p className="text-accent-2 col-span-3 text-center">No related articles found.</p>
+              <p className="text-[var(--color-accent-2)] col-span-3 text-center">No related articles found.</p>
             )}
           </div>
         </section>

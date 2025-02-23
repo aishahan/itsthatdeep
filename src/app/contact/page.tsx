@@ -6,12 +6,12 @@ export default function ContactPage() {
     <Container>
       <Intro highlightedLinks={true} currentPage="contact" />
       <div className="max-w-4xl mx-auto px-5 mt-16">
-        <h2 className="text-2xl text-accent-1 font-bold mb-4">Let's be penpals</h2>
+        <h2 className="text-2xl text-[var(--color-accent-1)] font-bold mb-4">Let's be penpals</h2>
         
         <div className="mb-8">
           <a 
             href="mailto:info@itsthatdeep.com" 
-            className="text-accent-1 hover:text-accent-2 transition-colors"
+            className="text-[var(--color-accent-1)] hover:text-[var(--color-accent-2)] transition-colors"
           >
             info@itsthatdeep.com
           </a>
@@ -20,10 +20,10 @@ export default function ContactPage() {
         {/* Message Box */}
         <div className="mb-8">
           <textarea 
-            className="w-full h-48 p-4 border-4 border-accent-1 bg-transparent text-accent-1 focus:outline-none resize-none"
+            className="w-full h-48 p-4 border-4 border-[var(--color-accent-1)] bg-transparent text-[var(--color-accent-1)] focus:outline-none resize-none"
             placeholder="Write your message here..."
           />
-          <button className="bg-accent-1 text-white px-8 py-2 float-right hover:bg-accent-2 transition-colors">
+          <button className="bg-[var(--color-accent-1)] text-[var(--color-background)] px-8 py-2 float-right hover:bg-[var(--color-accent-2)] transition-colors">
             Send
           </button>
         </div>
@@ -35,7 +35,7 @@ export default function ContactPage() {
               href="https://youtube.com/@thesubtlefold" 
               target="_blank"
               rel="noopener noreferrer"
-              className="text-accent-1 hover:text-accent-2 transition-colors"
+              className="text-[var(--color-accent-1)] hover:text-[var(--color-accent-2)] transition-colors"
             >
               YouTube: @thesubtlefold
             </a>
@@ -45,7 +45,7 @@ export default function ContactPage() {
               href="https://x.com/its_that_deep" 
               target="_blank"
               rel="noopener noreferrer"
-              className="text-accent-1 hover:text-accent-2 transition-colors"
+              className="text-[var(--color-accent-1)] hover:text-[var(--color-accent-2)] transition-colors"
             >
               Twitter: @itsthatdeep
             </a>
@@ -55,7 +55,7 @@ export default function ContactPage() {
               href="https://instagram.com/itsthatdeep" 
               target="_blank"
               rel="noopener noreferrer"
-              className="text-accent-1 hover:text-accent-2 transition-colors"
+              className="text-[var(--color-accent-1)] hover:text-[var(--color-accent-2)] transition-colors"
             >
               Instagram: @itsthatdeep
             </a>

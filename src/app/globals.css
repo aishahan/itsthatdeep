@@ -1,3 +1,53 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  /* Remove default theme values */
+}
+
+/* Theme classes */
+.summer-theme {
+  --color-accent-1: #ED1717;
+  --color-accent-2: #FF8C8D;
+  --color-background: #FFFAEC;
+}
+
+.autumn-theme {
+  --color-accent-1: #43766C;
+  --color-accent-2: #76453B;
+  --color-background: #F8FAE5;
+}
+
+.winter-theme {
+  --color-accent-1: #3559E0;
+  --color-accent-2: #595959;
+  --color-background: #EEF5FF;
+}
+
+.spring-theme {
+  --color-accent-1: #BC7AF9;
+  --color-accent-2: #7AA874;
+  --color-background: #FFFAFA;
+}
+
+/* Update Tailwind classes to use CSS variables */
+.text-accent-1 {
+  color: var(--color-accent-1);
+}
+
+.text-accent-2 {
+  color: var(--color-accent-2);
+}
+
+.bg-background {
+  background-color: var(--color-background);
+}
+
+.hover\:text-accent-1:hover {
+  color: var(--color-accent-1);
+}
+
+.hover\:text-accent-2:hover {
+  color: var(--color-accent-2);
+}
