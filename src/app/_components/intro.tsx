@@ -9,7 +9,9 @@ export function Intro({ highlightedLinks = false }: IntroProps) {
     <section className="my-12">
       <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-4">
         <h1 className="text-5xl md:text-2xl text-accent-1 font-bold tracking-tighter leading-tight">
-          it's that deep
+          <a href="/" className="hover:text-accent-2 transition-colors">
+            it's that deep
+          </a>
         </h1>
         <nav className="flex gap-6 md:ml-auto">
           <a href="/writing" className="text-4xl md:text-xl text-accent-1 font-normal tracking-tighter hover:text-accent-2 transition-colors">
