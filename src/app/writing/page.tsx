@@ -15,7 +15,7 @@ export default async function WritingPage() {
 
   return (
     <Container>
-      <Intro highlightedLinks={true} />
+      <Intro highlightedLinks={true} currentPage="writing" />
       <div>
         {/* Topics Section */}
         <div className="mb-12">

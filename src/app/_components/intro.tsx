@@ -6,6 +6,17 @@ type IntroProps = {
 };
 
 export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
+  // Helper function to determine hover color
+  const getHoverColor = (linkType: 'writing' | 'coach' | 'other') => {
+    if (currentPage === 'writing') {
+      return 'hover:text-accent-1';
+    }
+    if (currentPage === 'coach') {
+      return linkType === 'writing' ? 'hover:text-accent-1' : 'hover:text-accent-2';
+    }
+    return 'hover:text-accent-2';
+  };
+
   return (
     <section className="sticky top-0 mt-12 bg-background z-50 py-6">
       <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-4">
@@ -19,7 +30,7 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
             href="/writing" 
             className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
               currentPage === 'coach' ? 'text-accent-2' : 'text-accent-1'
-            } hover:text-accent-2`}
+            } ${getHoverColor('writing')}`}
           >
             writing
           </a>
@@ -27,7 +38,7 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
             href="/coach" 
             className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
               currentPage === 'coach' ? 'text-accent-1' : highlightedLinks ? 'text-[#FF8C8C]' : 'text-accent-1'
-            } hover:text-accent-2`}
+            } ${getHoverColor('coach')}`}
           >
             coach
           </a>
@@ -35,7 +46,7 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
             href="/contact" 
             className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
               highlightedLinks ? 'text-[#FF8C8C]' : 'text-accent-1'
-            } hover:text-accent-2`}
+            } ${getHoverColor('other')}`}
           >
             contact
           </a>
@@ -43,7 +54,7 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
             href="/video" 
             className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${
               highlightedLinks ? 'text-[#FF8C8C]' : 'text-accent-1'
-            } hover:text-accent-2`}
+            } ${getHoverColor('other')}`}
           >
             video
           </a>
