@@ -63,7 +63,7 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
           <SeasonSwitcher />
         </nav>
       </div>
-      <h4 className="text-base md:text-xl text-[var(--color-accent-2)] max-w-md leading-4 mt-4">
+      <h4 className="text-base md:text-xl text-[var(--color-accent-2)] max-w-9/10 leading-4 mt-4">
         technologist by trade. exploring topics worth writing about. early career + higher ed admissions strategy coach.
       </h4>
     </section>
