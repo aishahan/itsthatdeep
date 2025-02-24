@@ -58,7 +58,7 @@ export default async function HomePage() {
         );
       } else if (i === 3) { // Cell 4
         gridItems.push(
-          <div key="fixed-2" className="p-4">
+          <div key="fixed-2" className="p-4p-4 text-center flex flex-col justify-center h-full">
             <Link href={fixedCells.cell4.link} className="block" target="_blank" rel="noopener noreferrer">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell4.title}</h3>
               <p className="text-2xl text-accent-1">{fixedCells.cell4.content}</p>
@@ -68,7 +68,7 @@ export default async function HomePage() {
         );
       } else if (i === 5) { // Cell 6
         gridItems.push(
-          <div key="fixed-3" className="p-4 flex flex-col justify-center h-full">
+          <div key="fixed-3" className="p-4 flex text-center flex-col justify-center h-full">
             <Link href={fixedCells.cell6.link} className="block" target="_blank" rel="noopener noreferrer">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell6.title}</h3>
               <p className="text-2xl text-accent-2">{fixedCells.cell6.content}</p>
