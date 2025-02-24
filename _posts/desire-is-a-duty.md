@@ -1,10 +1,13 @@
 ---
 title: desire is a duty
-excerpt: This message may resonate with you if you are a perfectionist and/or overachievers who are often paralyzed by your own expectations. The pressure to meet impossibly high standards can lead to a cycle of procrastination, where the fear of falling short outweighs the desire to begin. You might feel immense shame for your inaction and label yourself as lazy or unmotivated. This harsh self-criticism only deepens your sense of inadequacy, making it harder to break free from the cycle...
-date: "2025-02-19"
-tags: ["career", "planning", "goals"]
+excerpt: This message may resonate with you if you are a perfectionist and/or an overachiever often paralyzed by your own expectations. The pressure to meet impossibly high standards can lead to a cycle of procrastination, where the fear of falling short outweighs the desire to begin. You might feel immense shame for your inaction and label yourself as lazy or unmotivated. This harsh self-criticism only deepens your sense of inadequacy, making it harder to break free from the cycle...
+date: 2025-02-19
+tags:
+  - career
+  - planning
+  - goals
 ---
-This message may resonate with you if you are a perfectionist and/or overachievers who are often paralyzed by your own expectations. The pressure to meet impossibly high standards can lead to a cycle of procrastination, where the fear of falling short outweighs the desire to begin. You might feel immense shame for your inaction and label yourself as lazy or unmotivated. This harsh self-criticism only deepens your sense of inadequacy, making it harder to break free from the cycle. Over time, you might find yourself trapped in a constant state of self-doubt, exhausted by the burden of your own expectations, but unable to give yourself the grace to move forward imperfectly.
+This message may resonate with you if you are a perfectionist and/or an overachiever often paralyzed by your own expectations. The pressure to meet impossibly high standards can lead to a cycle of procrastination, where the fear of falling short outweighs the desire to begin. You might feel immense shame for your inaction and label yourself as lazy or unmotivated. This harsh self-criticism only deepens your sense of inadequacy, making it harder to break free from the cycle. Over time, you might find yourself trapped in a constant state of self-doubt, exhausted by the burden of your own expectations, but unable to give yourself the grace to move forward imperfectly.
 
 Many times, when people feel lazy or unmotivated, they are actually experiencing overwhelm or painful reminders of invalidation from their past. The self-fulfilling prophecy begins when "procrastination" or "laziness" is in direct proportion with their need for validation. The deep need for external validation is a learned response to years of pressure, criticism, or feeling unseen by communities or society writ large. Unraveling this pattern requires a shift in perspective—recognizing that their worth is not contingent upon relentless productivity, but rather on their inherent humanity (imperfections and all).
 
