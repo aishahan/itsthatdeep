@@ -14,7 +14,7 @@ I propose a way out for anyone looking to make a leap, build self-discipline, or
 
 Morrison connects our duty on earth with love, but I believe this can be extended to your desires or passions in life. If you have a desire to do something, it's your duty to do it. It is your purpose to do it. Avoiding that makes your soul sad.
 
-[here](https://youtu.be/53F0lFMSwpc?si=Yr3BgThwYj4hjP7v&t=339)
+[Find the full video here](https://youtu.be/53F0lFMSwpc?si=Yr3BgThwYj4hjP7v&t=339)
 
 
 Desire is productive. But when misdirected, it can fuel reactionary forces, it also can turn into a force for control. Desire is a powerful force--its direction determines whether it serves the interests of liberation or oppression. - Deleuze
