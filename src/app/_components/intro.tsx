@@ -38,32 +38,32 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
         <nav className="flex gap-6 md:ml-auto">
           <a 
             href="/writing" 
-            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'writing')}`}
+            className={`text-base md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'writing')}`}
           >
             writing
           </a>
           <a 
             href="/coach" 
-            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'coach')}`}
+            className={`text-base md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'coach')}`}
           >
             coach
           </a>
           <a 
             href="/contact" 
-            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'contact')}`}
+            className={`text-base md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'contact')}`}
           >
             contact
           </a>
           <a 
             href="/video" 
-            className={`text-4xl md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'video')}`}
+            className={`text-base md:text-xl font-normal tracking-tighter transition-colors ${getTextAndHoverColors(false, 'video')}`}
           >
             video
           </a>
           <SeasonSwitcher />
         </nav>
       </div>
-      <h4 className="text-[var(--color-accent-2)] max-w-md leading-4 mt-4">
+      <h4 className="text-base md:text-xl text-[var(--color-accent-2)] max-w-md leading-4 mt-4">
         technologist by trade. exploring topics worth writing about. early career + higher ed admissions strategy coach.
       </h4>
     </section>

@@ -37,7 +37,7 @@ export function SeasonSwitcher() {
   return (
     <button
       onClick={handleClick}
-      className="text-4xl md:text-xl font-normal tracking-tighter transition-colors text-[var(--color-accent-2)] hover:text-[var(--color-accent-1)]"
+      className="text-base md:text-xl font-normal tracking-tighter transition-colors text-[var(--color-accent-2)] hover:text-[var(--color-accent-1)]"
     >
       {currentSeason}
     </button>
