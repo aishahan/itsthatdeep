@@ -25,10 +25,10 @@ export default async function HomePage() {
     },
     cell6: {
       title: "Study with me",
-      content: "Cambridge Coaching | Aisha",
+      content: "Cambridge Coaching",
       link: "https://cambridgecoaching.com/tutors/aisha-h",
-      content2: "Empowerly | Aisha",
-      link2: "https://empowerly.com/aisha-h"
+      content2: "Empowerly",
+      link2: "https://empowerly.as.me/aishahan"
     }
   };
 
