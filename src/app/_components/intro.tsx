@@ -28,7 +28,7 @@ export function Intro({ highlightedLinks = false, currentPage }: IntroProps) {
   };
 
   return (
-    <section className="sticky top-0 mt-12 bg-[var(--color-background)] z-50 py-6">
+    <section className="static md:sticky top-0 mt-12 bg-[var(--color-background)] z-50 py-6">
       <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-4">
         <h1 className={`text-5xl md:text-2xl font-bold tracking-tighter leading-tight ${getTextAndHoverColors(true)}`}>
           <a href="/" className="transition-colors">
