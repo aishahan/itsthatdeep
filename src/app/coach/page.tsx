@@ -32,7 +32,7 @@ export default async function CoachPage() {
                 </summary>
                 <div className="mt-4 text-[var(--color-accent-2)] space-y-4">
                   <p>
-                    I grew up in a low-middle income neighborhood with immigrant parents. Education was the way up and out for not only my parents' upbringing, but also my own.
+                    I grew up in a lower-middle income neighborhood with immigrant parents. Education was the way up and out for not only my parents' upbringing, but also my own.
                   </p>
                   <p>
                     I was fortunate to attend Carnegie Mellon University for undergrad and UCLA on scholarship for grad school. Along the way, I encountered pivotal moments that shaped my trajectory, and a major factor in my success was the guidance of admissions counselors who helped me navigate the complex world of college admissions and career decisions.
