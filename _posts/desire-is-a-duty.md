@@ -12,12 +12,9 @@ I propose a way out for anyone looking to make a leap, build self-discipline, or
 
 "It may be true that people say, 'I didn't ask to be born.' I think we did, and that's why we're here. we are here, and we have to do something nurturing that we respect before we go. We must. It is more interesting, more complicated, and more morally demanding... to take care of somebody, to make another person feel good." 
 
-Morrison
+Morrison connects our duty on earth with love, but I believe this can be extended to your desires or passions in life. If you have a desire to do something, it's your duty to do it. It is your purpose to do it. Avoiding that makes your soul sad.
 
-https://youtu.be/53F0lFMSwpc?si=Yr3BgThwYj4hjP7v&t=339
-
-
-"if you have a desire to do something, it's your duty to do it. it's your purpose to do it. avoiding that makes your soul sad" - The Guru Benny on TikTok
+[here](https://youtu.be/53F0lFMSwpc?si=Yr3BgThwYj4hjP7v&t=339)
 
 
 Desire is productive. But when misdirected, it can fuel reactionary forces, it also can turn into a force for control. Desire is a powerful force--its direction determines whether it serves the interests of liberation or oppression. - Deleuze
