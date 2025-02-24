@@ -20,8 +20,10 @@ export default async function HomePage() {
     },
     cell4: {
       title: "Projects",
-      content: "Twitter",
-      link: "https://x.com/its_that_deep"
+      content: "Baking Log",
+      content2: "Book Club",
+      link: "https://www.itsthatdeep.com"
+      
     },
     cell6: {
       title: "Study with me",
@@ -60,6 +62,7 @@ export default async function HomePage() {
             <Link href={fixedCells.cell4.link} className="block" target="_blank" rel="noopener noreferrer">
               <h3 className="text-3xl mb-3 leading-snug text-accent-1">{fixedCells.cell4.title}</h3>
               <p className="text-2xl text-accent-1">{fixedCells.cell4.content}</p>
+              <p className="text-2xl text-accent-1">{fixedCells.cell4.content2}</p>
             </Link>
           </div>
         );
