@@ -1,6 +1,6 @@
 ---
 title: "customer-journey-map your life goals"
-excerpt: "I have much respect for them, but I was never a visionboard-type of person. I appreciate beauty and have aesthetic preferences, but I don't have subscriptions to magazines where I can find pretty cutouts. I journal maybe once every three months. When it came to setting goals, it was difficult for anything to stick until recently.Last year, a couple friends came over with markers, magazines, tape and glue to visionboard their next 3-5 years. I joined in on the fun, but quickly realized that I was writing on the board a lot.."
+excerpt: "I was never a vision board-type of person. I appreciate beauty and have aesthetic preferences, but I don't subscribe to magazines or collect stickers, where I can find the perfect visual asset to capture the essence of a 'soft life'. I journal maybe once every three months when I'm crashing out. My to-do lists sit on OneNote, post-its, napkins, Obsidian, and sometimes on my palm in smudged sharpie stains. When it came to setting and documenting goals, it was difficult for me to find something consistent until recently..."
 date: "2025-02-20"
 tags: ["career", "planning", "goals"]
 ---
