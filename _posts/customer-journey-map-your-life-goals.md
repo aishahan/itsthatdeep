@@ -4,11 +4,12 @@ excerpt: "I have much respect for them, but I was never a visionboard-type of pe
 date: "2025-02-20"
 tags: ["career", "planning", "goals"]
 ---
-I have much respect for them, but I was never a visionboard-type of person. I appreciate beauty and have aesthetic preferences, but I don't have subscriptions to magazines where I can find pretty cutouts. I journal maybe once every three months. When it came to setting goals, it was difficult for anything to stick until recently.
 
-Last year, a couple friends came over with markers, magazines, tape and glue to visionboard their next 3-5 years. I joined in on the fun, but quickly realized that I was writing on the board a lot. Instead of gluing a yoga mat photo or peeling stickers of books, I broke down how often I wanted to stretch, the completion rate of books by month, by quarter. I was looking at Google Maps to find the nearest track field, and doing requisite calculations to fit runs in my work schedule.
+I was never a vision board-type of person. I appreciate beauty and have aesthetic preferences, but I don't subscribe to magazines or collect stickers, where I can find the perfect visual asset to capture the essence of a 'soft life'. I journal maybe once every three months when I'm crashing out. My to-do lists sit on OneNote, post-its, napkins, Obsidian, and sometimes on my palm in smudged sharpie stains. When it came to setting and documenting goals, it was difficult for me to find something consistent until recently.
 
-I was mapping my own customer journey.
+Last year, a couple friends came over with markers, magazines, tape and glue to visionboard their next 3-5 years. I joined in on the fun, but quickly realized that I was writing on the board a lot. Instead of gluing a yoga mat photo or peeling stickers of books, I broke down how often I wanted to stretch and the completion rate of books by quarter. I was looking at Google Maps to find the nearest track field, and doing requisite calculations to fit runs in my work schedule. 
+
+I was breaking down my vision into granular levels. I was mapping my own customer journey.
 
 I work in marketing so this realization didn't take me by surprise. Looking at the fundamentals of customer journey mapping, I found that there are a lot of useful takeaways that can be applied to our own goals and aspirations in life.
 
@@ -30,7 +31,7 @@ How to map the customer's (your) journey? Approach it in this order, rinse and r
 - design your journey map
 - improve ~~customer~~ your experience
 
-Example: I have this vision of the person I want to become. She is a great friend, she works out 3-5x a week and has run a marathon, she reads voraciously, she got promoted at work recently, she cooks her own healthy food, she invests a majority of her income wisely. How can I become this person?
+Example: I have this vision of the person I want to become. She works out 3-5x a week, she's a great run, she has run a marathon, she reads voraciously, she got promoted at work recently, she cooks her own healthy food, and she invests a majority of her income wisely. How can I become this person?
 - That sounds like a really accomplished person! I would love to be her. Okay, what are my goals from this vision?
 	- Be a good friend
 	- Run frequently
@@ -56,13 +57,3 @@ Example: I have this vision of the person I want to become. She is a great frien
 	- Cut down on frivolous spending
 		- I spent 30% of my discretionary income on travel, and 15% on restaurants. I can travel less this year and I will order less takeout, which should bring my expenses down over time.
 - Design your journey map
-	- Here's a sample of my goals broken down by year, quarter, and month, then fitted into an average weekly schedule:
-	- 
-
-| 2025 Goal            | Q1                                                        | Q2                                                                         | Q3                                                         | Q4                                                             |
-| -------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- |
-| Run a marathon       | Jan: 14 mi/week<br>Feb: 18 mi/week<br>March: 21 mi/week   | April: 25 mi/week<br>May: **run a half marathon race**<br>June: 15 mi/week | July: 20 mi/week<br>August: 27 mi/week<br>Sept: 34 mi/week | Oct: 40 mi/week<br>Nov: 45 mi/week<br>Dec: run a marathon race |
-| Read 34 books        | Jan: 3<br>Feb: 2<br>March: 3                              | April: 3<br>May: 3<br>June: 3                                              | July: 3<br>August: 3<br>Sept: 3                            | Oct: 3<br>Nov: 3<br>Dec: 2                                     |
-| Cook 80% of my meals | Jan: <br>Feb: <br>March:                                  | April: <br>May: <br>June:                                                  | July: <br>August: <br>Sept:                                | Oct: <br>Nov: <br>Dec:                                         |
-| Spend $18K less      | Jan: spend <$3K<br>Feb: spend <$2.5K<br>March: spend <$3K | April: spend <$3K<br>May: spend <$3K<br>June: spend <$3K                   | July: spend <$3K<br>August: spend <$3K<br>Sept: spend <$3K | Oct: spend <$3K<br>Nov: spend <$3K<br>Dec: spend <$4K          |
-
