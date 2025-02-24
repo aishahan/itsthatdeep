@@ -30,8 +30,6 @@ const nextConfig = {
     outputFileTracingIgnores: ['.obsidian/**/*'],
   },
 
-  output: 'export',  // Enable static exports
-  basePath: process.env.NODE_ENV === 'production' ? '/itsthatdeep' : '', // Replace 'itsthatdeep' with your repo name
   images: {
     unoptimized: true,
   },
