@@ -42,6 +42,13 @@ const bakingEntries: BakingEntry[] = [
     title: "sour cream and onion biscuit w/ butter candle",
     date: "2024-12-18",
   },
+  {
+    id: 6,
+    image: "/baking-images/orange-cake.jpg", // These will be the paths to your images
+    title: "sicilian whole orange cake",
+    date: "2025-01-17",
+  },
+  
 
   // Add more entries as needed
 ];
